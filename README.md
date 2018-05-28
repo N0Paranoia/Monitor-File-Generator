@@ -1,2 +1,2 @@
 # Monitor-File-Generator
-Generatates Monotor Files For Scala (Digita Signage Solutions)
+Generatates Monitor Files For Scala (Digital Signage Solutions)
